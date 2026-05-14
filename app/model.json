@@ -1,6 +1,6 @@
 {
   "application": {
-    "title": "My Friend Tracker",
+    "title": "Saru Albin Friend Tracker",
     "formList": [
         {
           "id": "FriendForm",
